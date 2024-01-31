@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="image">image</string>
+
+    <string name="app_name">Quiz App</string>
+    <string name="welcome">Welcome</string>
+    <string name="quiz_app">Kotor Quiz App!</string>
+    <string name="name_label">Please enter your name.</string>
+    <string name="name_hint">Name</string>
+    <string name="start">Start</string>
+    <string name="progress_Text">%1d / %2d</string>
+    <string name="score">Your Score is %1d out of %2d.</string>
+</resources>
